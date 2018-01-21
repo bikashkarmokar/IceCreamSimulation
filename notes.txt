@@ -1,0 +1,11 @@
+11 am to 8 pm   ==  9 hours == 9 x 60 = 540 minutes
+customer arrival
+1. time <=120  in 1 to 3
+2. time>120 and time <= 360  in 2 to 10
+3. time>360 and time <= 480 in 1 to 2
+4. time>480 and time <=540 in 2 to 5
+
+Customer scoops
+1. time<=120, each 1 to 3
+2. time>120 and time<=240 each 3 to 5
+3. time>240 and time<=540 each 1 to 4

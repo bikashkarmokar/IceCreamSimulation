@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1483789884 source:f:\mygithubcodes\icecreamsimulation\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<cstdlib>
+	<time.h>
+
